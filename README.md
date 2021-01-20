@@ -7,3 +7,5 @@ Hi 👋 My Name is Nom, Nice to meet you!
 - 💬 Ask me about ... Anything ;)
 - 📫 How to reach me: ... Discord: Nom#1337
 - ⚡ Fun fact: ... Im cool
+
+![](https://github-readme-stats.vercel.app/api?username=Nom-Youtube&show_icons=true&theme=dark)
