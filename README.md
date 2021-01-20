@@ -19,4 +19,4 @@ Hi 👋 My Name is Nom, Nice to meet you!
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Nom-Youtube&show_icons=true&theme=dark)
+[![](https://github-readme-stats.vercel.app/api?username=Nom-Youtube&show_icons=true&theme=dark)]
