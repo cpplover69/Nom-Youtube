@@ -1,11 +1,11 @@
 Hi 👋 My Name is Nom, Nice to meet you!
 
-- 🔭 I’m currently working on tGui
+- 🔭 I’m currently working on Anomaly
 - 🌱 I’m currently learning Lua
 - 👯 I’m looking to collaborate on Frontend work
 - 🤔 I’m looking for help with Frontend Work
 - 💬 Ask me about Anything ;)
-- 📫 How to reach me: Discord: Nom#1337
+- 📫 How to reach me: Discord: Nom#0027
 - ⚡ Fun fact: Im cool
 
 ![ ](https://github-readme-stats.vercel.app/api?username=Nom-Youtube&show_icons=true&theme=dark)
