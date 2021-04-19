@@ -1,6 +1,6 @@
 Hi 👋 My Name is Nom, Nice to meet you!
 
-- 🔭 I’m currently working on Anomaly
+- 🔭 I’m currently working on Lytrx
 - 🌱 I’m currently learning Lua
 - 👯 I’m looking to collaborate on Frontend work
 - 🤔 I’m looking for help with Frontend Work
