@@ -1,7 +1,7 @@
 Hi 👋 My Name is Nom, Nice to meet you!
 
-- 🔭 I’m currently working on Lytrx
-- 🌱 I’m currently learning Lua
+- 🔭 I’m currently working on Lytrx and zDump
+- 🌱 I’m currently learning F# (dont tell me its pointless, I already know)
 - 👯 I’m looking to collaborate on Frontend work
 - 🤔 I’m looking for help with Frontend Work
 - 💬 Ask me about Anything ;)
