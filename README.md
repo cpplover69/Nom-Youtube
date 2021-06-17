@@ -8,7 +8,7 @@ Hi 👋 My Name is Nom, Nice to meet you!
 - 📫 How to reach me: Discord: nom#1337
 - ⚡ Fun fact: Im cool
 
-![ ](https://github-readme-stats.vercel.app/api?username=cpplover69&show_icons=true&theme=dark)
+![ ](https://github-readme-stats.vercel.app/api?username=vk-nom&show_icons=true&theme=dark)
 
 ### Languages and Tools:
 
